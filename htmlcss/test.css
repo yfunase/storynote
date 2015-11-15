@@ -1,0 +1,17 @@
+p.abc {
+    color: green;
+}
+
+#p3 {
+    color: red;
+}
+
+p:hover {
+    color: yellow;
+}
+
+/*
+* {
+  color: green;
+}
+*/
